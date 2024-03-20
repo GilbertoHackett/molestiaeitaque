@@ -1,0 +1,27 @@
+{
+  "name": "molestiaeitaque",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GilbertoHackett/molestiaeitaque.git"
+  },
+  "keywords": [
+    "omnis",
+    "labore",
+    "ethereum"
+  ],
+  "author": "GailJones",
+  "bugs": {
+    "url": "https://github.com/GilbertoHackett/molestiaeitaque.git/issues"
+  },
+  "homepage": "https://github.com/GilbertoHackett/molestiaeitaque.git",
+  "eggPlugin": {
+    "name": "web3"
+  },
+  "dependencies": {
+    "web3": "^1.0.0-beta.34"
+  }
+}
